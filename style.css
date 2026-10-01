@@ -86,9 +86,6 @@ button {
 
 }
 
-
-
-
 .main {
     display: flex;
     justify-content: center;
@@ -207,20 +204,6 @@ footer{
     margin: 0 10px 5px 10px;
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* 📱 Mobile – 1 card */
 @media (max-width: 576px) {
